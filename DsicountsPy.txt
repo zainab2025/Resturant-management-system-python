@@ -1,3 +1,6 @@
-2	fihs	20	30	23%					
-								
-3	cake	30March	1May	20%
+1	rice	1May,2023	30May,2023	10%
+2	fish	3March,2023	10April, 2023	30%
+3	cake	1April, 2023	10April, 2023	5%
+4	Pizza	1June, 2023	10June, 2023	44%
+5	Cinappon	1June, 2023	1July, 2023	30%
+6		meat		1April, 2023		4April, 2023		26%
